@@ -1,3 +1,9 @@
 {
- "projects": {}
+  "projects": {
+    "configServer": "https://github.com/wtg1890/config-server.git",
+    "discoveryServer": "https://github.com/wtg1890/discovery-server.git",
+    "hystrixServer": "https://github.com/wtg1890/hystrix-server.git",
+    "gatewayServer": "https://github.com/wtg1890/gateway-server.git",
+    "applicationService": "https://github.com/wtg1890/application-service.git"
+  }
 }
