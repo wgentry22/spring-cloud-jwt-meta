@@ -3,3 +3,4 @@ discoveryServer
 hystrixServer
 gatewayServer
 applicationService
+expenseService
